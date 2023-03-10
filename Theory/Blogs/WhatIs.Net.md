@@ -1,11 +1,11 @@
 # Español
-## Que es .NET
+* Que es .NET
 
 .NET es una plataforma para desarrolladores de codigo abierto, multiplataforma y gratuita.
 
 &emsp;.NET puede usar varios lenguajes, editores y bibliotecas.
 
-## Lenguajes
+* Lenguajes
 
 1. Se pueden escribir aplicaciones en .NET en C#, F# o VisualBasic
 
@@ -15,13 +15,13 @@
 
 # English
 
-## What is .NET
+* What is .NET
 
 .NET is a free, cross-platform, open source developer platform.
 
 &emsp;.NET can use several languages, editors and libraries.
 
-## Languages
+* Languages
 
 1. You can write .NET applications in C#, F#, or VisualBasic
 

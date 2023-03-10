@@ -3,7 +3,7 @@
 
 .NET es una plataforma para desarrolladores de codigo abierto, multiplataforma y gratuita.
 
-&emsp;.NET puede usar varios lenguajes, editores y bibliotecas.
+.NET puede usar varios lenguajes, editores y bibliotecas.
 
 * Lenguajes
 

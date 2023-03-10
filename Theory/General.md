@@ -1,5 +1,3 @@
-# ChatGPT
-
 # Introducción
 
 .NET es un framework desarrollado por Microsoft que proporciona un conjunto de herramientas y bibliotecas para crear aplicaciones de software. El lenguaje de programación principal utilizado en .NET es C# (C Sharp). En este curso, aprenderás los conceptos básicos de .NET y C# para comenzar a crear tus propias aplicaciones.
